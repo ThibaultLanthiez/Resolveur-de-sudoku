@@ -1,6 +1,6 @@
 # Resolveur-de-sudoku
 
-[Code](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku/blob/main/Projet_6_Classification_Breast_Cancer.ipynb)
+[Code](https://github.com/ThibaultLanthiez/Detection-fraude-carte-bancaire/blob/main/Projet_10_D%C3%A9tection_d'anomalies_Credit_Card_Fraud_Detection.ipynb)
 
 [Retour](https://github.com/ThibaultLanthiez/Portfolio)
 
