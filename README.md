@@ -2,4 +2,4 @@
 
 # Résolveur de sudokus
 
-[Code](https://github.com/ThibaultLanthiez/Regression-prix-vente-biens-immobiliers/blob/main/Projet_2_R%C3%A9gression_SalePrice.ipynb)
+[Code](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku/blob/main/Sudoku%20solver.ipynb)
