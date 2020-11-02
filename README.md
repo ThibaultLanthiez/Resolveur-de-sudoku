@@ -1,7 +1,5 @@
 [:arrow_left: Retour vers le portfolio](https://github.com/ThibaultLanthiez/Portfolio)
 
-# Résolveur de sudoku
+# Résolveur de sudokus
 
-[Lien site](https://revisioninformatique.wixsite.com/stid)
-
-ou tapez "DUT STID langage" ou "STID révision" sur Google
+[Code](https://github.com/ThibaultLanthiez/Regression-prix-vente-biens-immobiliers/blob/main/Projet_2_R%C3%A9gression_SalePrice.ipynb)
