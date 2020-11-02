@@ -2,4 +2,6 @@
 
 # Résolveur de sudoku
 
-[Code](https://github.com/ThibaultLanthiez/Resolveur-de-sudoku/blob/main/Sudoku%20solver.ipynb)
+[Lien site](https://revisioninformatique.wixsite.com/stid)
+
+ou tapez "DUT STID langage" ou "STID révision" sur Google
