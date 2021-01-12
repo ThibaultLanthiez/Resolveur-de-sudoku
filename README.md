@@ -2,7 +2,7 @@
 
 <img src="https://github.com/ThibaultLanthiez/Resolveur-de-sudoku/blob/main/image-sudoku.PNG" width="140%" and height="120%"/>
 
-# Résolveur de sudokus
+# Machine learning pour la résolution de sudokus
 
 Mes parents aiment résoudre des sudokus. Ils sont devenus forts et assez rapides dans leur résolution. Je me suis donc demandé si, à partir de la grille initiale, un algorithme de machine learning pouvait résoudre un sudoku.
 
