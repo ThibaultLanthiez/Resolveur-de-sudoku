@@ -8,7 +8,7 @@ Mes parents aiment résoudre des sudokus. Ils sont devenus forts et assez rapide
 
 Pour cela, j'ai téléchargé sur la plateforme Kaggle un ensemble de grilles de sudoku non remplies ainsi que les résolutions (grilles remplies). 
 
-Puis avec le langage Python et la bibliothèque Tensorflow.Keras j'ai développé un modèle basé sur un réseau de neurones à convolution (CNN).
+Puis avec le langage python et la bibliothèque Tensorflow.Keras j'ai développé un modèle basé sur un réseau de neurones à convolution (CNN). Je l'ai entrainé et optimisé.
 
 Mon modèle n'est pas parfait. Cependant, il arrive quand même à résoudre correctement 85% de la grille.
 
